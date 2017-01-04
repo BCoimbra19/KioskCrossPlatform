@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="migrosTabletKioke.StartUp">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="*"/>
+    <RowDefinition Height="*"/>
+    </Grid.RowDefinitions>
+    
+    <Label x:Name="ass" Grid.Row="0" Grid.Column="0" Text="Kiosk Key"/>
+    <Entry x:Name="kiosk_key" Grid.Row="1" Grid.Column="0"/>
+    
+    <Label Text="End Point"  Grid.Row="2" Grid.Column="0" />
+    <Entry x:Name="end_point"  Grid.Row="3" Grid.Column="0" />
+  
+    <Button x:Name="Continue" Grid.Row="4" Grid.Column="0" Text="Continue"/>
+  </Grid>
+</ContentPage>

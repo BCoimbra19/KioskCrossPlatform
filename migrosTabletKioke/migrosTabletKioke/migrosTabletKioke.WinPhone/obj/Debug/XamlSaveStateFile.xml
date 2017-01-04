@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\migrostabletkioke\migrostabletkioke.winphone\obj\debug\intermediatexaml\migrostabletkioke.winphone.exe" HashGuid="273f15f1-cc1c-8a6f-e64b-6a3c4e22d576" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\xamarin.forms.2.0.0.6490\lib\wpa81\xamarin.forms.core.dll" HashGuid="fc4d293c-1461-cd77-ad16-bd6242859c90" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\xamarin.forms.2.0.0.6490\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\xamarin.forms.2.0.0.6490\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="98d433d0-b633-d112-817d-fa76ca199a41" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\xamarin.forms.2.0.0.6490\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\xamarin.forms.2.0.0.6490\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="3953804c-3f4d-f50e-72fc-d5c6cd693e13" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\zxing.net.mobile.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\zxing.net.mobile.core.dll" HashGuid="38134cec-c0fe-d6eb-8165-8800b21be862" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\zxing.net.mobile.forms.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\zxing.net.mobile.forms.dll" HashGuid="3386278c-05cc-25f4-d642-cba6289af91b" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\zxing.net.mobile.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\zxing.portable.dll" HashGuid="b32fdbab-943c-8e7e-9166-8c1c1fde910f" />
+    <ReferenceAssembly PathName="c:\users\bcoimbra\desktop\migrostabletkioke\packages\zxing.net.mobile.2.1.47\lib\portable-net45+netcore45+wpa81+wp8\zxingnetmobile.dll" HashGuid="403fe390-b491-4e51-9a7d-0f329a385624" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
